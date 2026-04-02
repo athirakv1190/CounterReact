@@ -16,6 +16,7 @@ function Reset(){
 
   return (
     <div>
+      <h1>Counter Application</h1>
       <h1>Count {count}</h1>
       <button onClick={Increment}>INCREMENT</button>
       <button onClick={Decrement}>DECREMENT</button>
